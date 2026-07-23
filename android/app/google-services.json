@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "72905822934",
+    "project_id": "autoguardian-app",
+    "storage_bucket": "autoguardian-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72905822934:android:36b7996f1e4bf061066f77",
+        "android_client_info": {
+          "package_name": "com.example.auto_guardian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMuev-cl2t5koRH8NaiiT524cqf5XWMok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
