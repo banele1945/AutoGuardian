@@ -1,0 +1,14 @@
+1. ESP32-WROOM-32 DEVKIT V1                     : R300
+2. SIM800L GSM GPRS Module                      : R330
+3. NEO-6M GPS Module with Antenna               : R275
+4. 1-Channel 5V Relay Module (Opto-isolated)    : R130
+5. Active Buzzer Module 5V                      : ~R100
+6. MPU-6050 Accelerometer + Gyroscope           : R170
+7. TTP223 Capacitive Touch Sensor Module        : R120
+8. DC-DC Buck Converter                         : R120
+9. AMS1117-4.0V Regulator                       : R150
+10. 4-channel Logic Level Shifter
+11. SSD1306 128x64 I2C OLED Display             : R200
+12. Jumper Wires + Breadboard                   : R100
+13. ABS Project Box Enclosure                   : ~R300-R400
+14. 3.7V Li-ion Battery + TP4056                : R300
